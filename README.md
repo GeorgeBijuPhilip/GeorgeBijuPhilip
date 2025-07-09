@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Focused on applying my knowledge in real-world scenarios and seeking opportunities to grow professionally<br>🤝 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Java and ML techniques <br>💬 Ask me about ML/AI <br>
+🚀 Focused on turning learning into action and building experience through real-world opportunities.<br>🤝 I’m looking to collaborate on Projects<br>🔭 Exploring: Q-learning, LangChain, ChromaDB, and multimodal agents.<br>💬 Ask me about ML/AI <br>
 
 
 ## 🌐 Socials:
